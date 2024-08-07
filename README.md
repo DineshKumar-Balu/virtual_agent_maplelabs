@@ -1,5 +1,6 @@
 
-                                                                 ![image](https://github.com/user-attachments/assets/d4cf4f1b-2962-46e6-aa25-9475b764781a)
+                                                                 ![image](https://github.com/user-attachments/assets/1b05bbbd-e92b-4bea-ba32-197cba7f2d4f)
+
 ## Live Site
 
 You can view the live version of the application at: [https://virtual-maplelabs.streamlit.app/](https://virtual-maplelabs.streamlit.app/)
